@@ -1,0 +1,1209 @@
+Necessities imported!
+lmdb train db found!
+lmdb test db found!
+Looks like you ran this before, so we need to cleanup those old files...
+training data folder:/home/chaitanya/caffe2_notebooks/tutorial_data/mnist
+workspace root folder:/home/chaitanya/caffe2_notebooks/tutorial_files/tutorial_mnist
+Protocol buffers files have been created in your root folder: /home/chaitanya/caffe2_notebooks/tutorial_files/tutorial_mnist
+Iteration : 0
+The accuracy for the model is : 0.15625 
+The loss for thee model is : 2.38605642319
+Iteration : 1
+The accuracy for the model is : 0.328125 
+The loss for thee model is : 2.05977582932
+Iteration : 2
+The accuracy for the model is : 0.171875 
+The loss for thee model is : 2.15081834793
+Iteration : 3
+The accuracy for the model is : 0.40625 
+The loss for thee model is : 1.95339107513
+Iteration : 4
+The accuracy for the model is : 0.578125 
+The loss for thee model is : 1.71860718727
+Iteration : 5
+The accuracy for the model is : 0.71875 
+The loss for thee model is : 1.45268392563
+Iteration : 6
+The accuracy for the model is : 0.703125 
+The loss for thee model is : 1.32266330719
+Iteration : 7
+The accuracy for the model is : 0.734375 
+The loss for thee model is : 1.25759112835
+Iteration : 8
+The accuracy for the model is : 0.546875 
+The loss for thee model is : 1.22905683517
+Iteration : 9
+The accuracy for the model is : 0.53125 
+The loss for thee model is : 1.4206161499
+Iteration : 10
+The accuracy for the model is : 0.5625 
+The loss for thee model is : 1.35079693794
+Iteration : 11
+The accuracy for the model is : 0.515625 
+The loss for thee model is : 1.75684177876
+Iteration : 12
+The accuracy for the model is : 0.8125 
+The loss for thee model is : 1.00162816048
+Iteration : 13
+The accuracy for the model is : 0.734375 
+The loss for thee model is : 0.96971476078
+Iteration : 14
+The accuracy for the model is : 0.65625 
+The loss for thee model is : 1.02396845818
+Iteration : 15
+The accuracy for the model is : 0.8125 
+The loss for thee model is : 0.818342864513
+Iteration : 16
+The accuracy for the model is : 0.703125 
+The loss for thee model is : 0.966849327087
+Iteration : 17
+The accuracy for the model is : 0.71875 
+The loss for thee model is : 0.915140151978
+Iteration : 18
+The accuracy for the model is : 0.859375 
+The loss for thee model is : 0.502412676811
+Iteration : 19
+The accuracy for the model is : 0.8125 
+The loss for thee model is : 0.695801258087
+Iteration : 20
+The accuracy for the model is : 0.734375 
+The loss for thee model is : 0.779643952847
+Iteration : 21
+The accuracy for the model is : 0.578125 
+The loss for thee model is : 1.30522072315
+Iteration : 22
+The accuracy for the model is : 0.59375 
+The loss for thee model is : 1.01442027092
+Iteration : 23
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.568968892097
+Iteration : 24
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.472257226706
+Iteration : 25
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.466466099024
+Iteration : 26
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.385866761208
+Iteration : 27
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.389644771814
+Iteration : 28
+The accuracy for the model is : 0.84375 
+The loss for thee model is : 0.495900154114
+Iteration : 29
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.416367977858
+Iteration : 30
+The accuracy for the model is : 0.859375 
+The loss for thee model is : 0.409967958927
+Iteration : 31
+The accuracy for the model is : 0.734375 
+The loss for thee model is : 0.629082918167
+Iteration : 32
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.415786802769
+Iteration : 33
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.234969109297
+Iteration : 34
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.315980792046
+Iteration : 35
+The accuracy for the model is : 0.859375 
+The loss for thee model is : 0.343267053366
+Iteration : 36
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.310759246349
+Iteration : 37
+The accuracy for the model is : 0.84375 
+The loss for thee model is : 0.472152620554
+Iteration : 38
+The accuracy for the model is : 0.8125 
+The loss for thee model is : 0.45762950182
+Iteration : 39
+The accuracy for the model is : 0.796875 
+The loss for thee model is : 0.482253313065
+Iteration : 40
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.314972758293
+Iteration : 41
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.411709189415
+Iteration : 42
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.369883656502
+Iteration : 43
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.336119890213
+Iteration : 44
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.341099709272
+Iteration : 45
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.338287651539
+Iteration : 46
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.357221782207
+Iteration : 47
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.497508615255
+Iteration : 48
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.230096295476
+Iteration : 49
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.206387832761
+Iteration : 50
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.309138536453
+Iteration : 51
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.270984888077
+Iteration : 52
+The accuracy for the model is : 0.859375 
+The loss for thee model is : 0.338686525822
+Iteration : 53
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.319974899292
+Iteration : 54
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.332039088011
+Iteration : 55
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.356536537409
+Iteration : 56
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.21125164628
+Iteration : 57
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.422559678555
+Iteration : 58
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.398640453815
+Iteration : 59
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.268118709326
+Iteration : 60
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.184502750635
+Iteration : 61
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.207253336906
+Iteration : 62
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.289165079594
+Iteration : 63
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.389568537474
+Iteration : 64
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.36776342988
+Iteration : 65
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.360950469971
+Iteration : 66
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.280819147825
+Iteration : 67
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.3006311059
+Iteration : 68
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.289008080959
+Iteration : 69
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.255423098803
+Iteration : 70
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.275696724653
+Iteration : 71
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.161084115505
+Iteration : 72
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.374266028404
+Iteration : 73
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.225785031915
+Iteration : 74
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.303673058748
+Iteration : 75
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.334214389324
+Iteration : 76
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.211974740028
+Iteration : 77
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.517349183559
+Iteration : 78
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.236866727471
+Iteration : 79
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.222240775824
+Iteration : 80
+The accuracy for the model is : 0.8125 
+The loss for thee model is : 0.49687319994
+Iteration : 81
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.204814493656
+Iteration : 82
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.31735253334
+Iteration : 83
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.327319771051
+Iteration : 84
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.238694936037
+Iteration : 85
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.162220835686
+Iteration : 86
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.298102319241
+Iteration : 87
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.243281677365
+Iteration : 88
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.171556204557
+Iteration : 89
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.234356075525
+Iteration : 90
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.188958212733
+Iteration : 91
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.335256636143
+Iteration : 92
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.263677000999
+Iteration : 93
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.168917119503
+Iteration : 94
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.151073932648
+Iteration : 95
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.248638615012
+Iteration : 96
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.117861777544
+Iteration : 97
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.201129853725
+Iteration : 98
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.134947314858
+Iteration : 99
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.133147418499
+Iteration : 100
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.234068512917
+Iteration : 101
+The accuracy for the model is : 0.84375 
+The loss for thee model is : 0.367761611938
+Iteration : 102
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.150248482823
+Iteration : 103
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.240315333009
+Iteration : 104
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.196100473404
+Iteration : 105
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.107874765992
+Iteration : 106
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.308538764715
+Iteration : 107
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.495993882418
+Iteration : 108
+The accuracy for the model is : 0.796875 
+The loss for thee model is : 0.604699969292
+Iteration : 109
+The accuracy for the model is : 0.859375 
+The loss for thee model is : 0.616126060486
+Iteration : 110
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.244870737195
+Iteration : 111
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.256087690592
+Iteration : 112
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.279026478529
+Iteration : 113
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.408913582563
+Iteration : 114
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.335161536932
+Iteration : 115
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.182366028428
+Iteration : 116
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.145112276077
+Iteration : 117
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.210062235594
+Iteration : 118
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.215384945273
+Iteration : 119
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.19438034296
+Iteration : 120
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.17575801909
+Iteration : 121
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.207438454032
+Iteration : 122
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.342765510082
+Iteration : 123
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.26470246911
+Iteration : 124
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.235636502504
+Iteration : 125
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.188569024205
+Iteration : 126
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.278183281422
+Iteration : 127
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.15127594769
+Iteration : 128
+The accuracy for the model is : 0.859375 
+The loss for thee model is : 0.456113278866
+Iteration : 129
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.271275937557
+Iteration : 130
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.11055508256
+Iteration : 131
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.230974972248
+Iteration : 132
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.330264866352
+Iteration : 133
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.157638326287
+Iteration : 134
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.224109560251
+Iteration : 135
+The accuracy for the model is : 0.84375 
+The loss for thee model is : 0.404362797737
+Iteration : 136
+The accuracy for the model is : 0.84375 
+The loss for thee model is : 0.548774003983
+Iteration : 137
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.313486665487
+Iteration : 138
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.365669250488
+Iteration : 139
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.26282542944
+Iteration : 140
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.165137559175
+Iteration : 141
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.133080422878
+Iteration : 142
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.31462007761
+Iteration : 143
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.168916702271
+Iteration : 144
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.29878115654
+Iteration : 145
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.28243792057
+Iteration : 146
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.172650486231
+Iteration : 147
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.290464997292
+Iteration : 148
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.175356402993
+Iteration : 149
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.254346489906
+Iteration : 150
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0952221304178
+Iteration : 151
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0820451974869
+Iteration : 152
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.312840312719
+Iteration : 153
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0810636281967
+Iteration : 154
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.122730016708
+Iteration : 155
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.153569489717
+Iteration : 156
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.205652311444
+Iteration : 157
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.186274588108
+Iteration : 158
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.150906592607
+Iteration : 159
+The accuracy for the model is : 0.84375 
+The loss for thee model is : 0.354754447937
+Iteration : 160
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.306372404099
+Iteration : 161
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0968164950609
+Iteration : 162
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0583279058337
+Iteration : 163
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.203112095594
+Iteration : 164
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.056375272572
+Iteration : 165
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.083790704608
+Iteration : 166
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.163331121206
+Iteration : 167
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.306115269661
+Iteration : 168
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.168565779924
+Iteration : 169
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.159333452582
+Iteration : 170
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.125713184476
+Iteration : 171
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.154316842556
+Iteration : 172
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.186096459627
+Iteration : 173
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.149045675993
+Iteration : 174
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0773799791932
+Iteration : 175
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.211494415998
+Iteration : 176
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0559073314071
+Iteration : 177
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.15402173996
+Iteration : 178
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.150786086917
+Iteration : 179
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0835399627686
+Iteration : 180
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.366816014051
+Iteration : 181
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.212798923254
+Iteration : 182
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.241363972425
+Iteration : 183
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.216175183654
+Iteration : 184
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.112031728029
+Iteration : 185
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.24223728478
+Iteration : 186
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.186177179217
+Iteration : 187
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.182626888156
+Iteration : 188
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.239385962486
+Iteration : 189
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0423090308905
+Iteration : 190
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.149634614587
+Iteration : 191
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.183398321271
+Iteration : 192
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.171495050192
+Iteration : 193
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.182225584984
+Iteration : 194
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.106550246477
+Iteration : 195
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.201965332031
+Iteration : 196
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.45966976881
+Iteration : 197
+The accuracy for the model is : 0.84375 
+The loss for thee model is : 0.434205532074
+Iteration : 198
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.36221164465
+Iteration : 199
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.188785046339
+Iteration : 200
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.129659175873
+Iteration : 201
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.104659810662
+Iteration : 202
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.246587619185
+Iteration : 203
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.260112762451
+Iteration : 204
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.315880656242
+Iteration : 205
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.233659610152
+Iteration : 206
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.19682648778
+Iteration : 207
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.138464987278
+Iteration : 208
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.107695505023
+Iteration : 209
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.208847358823
+Iteration : 210
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.107776962221
+Iteration : 211
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.190923377872
+Iteration : 212
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0398035421968
+Iteration : 213
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.242946118116
+Iteration : 214
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.220272675157
+Iteration : 215
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.117700025439
+Iteration : 216
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.166758000851
+Iteration : 217
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.203390821815
+Iteration : 218
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.299006998539
+Iteration : 219
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.184221565723
+Iteration : 220
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.132893949747
+Iteration : 221
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.112773887813
+Iteration : 222
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.238282725215
+Iteration : 223
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.266158938408
+Iteration : 224
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.28700235486
+Iteration : 225
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0994797497988
+Iteration : 226
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.129813402891
+Iteration : 227
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.179558739066
+Iteration : 228
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.190147086978
+Iteration : 229
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.24415768683
+Iteration : 230
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.338428080082
+Iteration : 231
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.268799811602
+Iteration : 232
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.141556367278
+Iteration : 233
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.106554225087
+Iteration : 234
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0804303213954
+Iteration : 235
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0707948282361
+Iteration : 236
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.288642883301
+Iteration : 237
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.139019846916
+Iteration : 238
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.14878937602
+Iteration : 239
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.11432313174
+Iteration : 240
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.125113964081
+Iteration : 241
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.1146017313
+Iteration : 242
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.141729936004
+Iteration : 243
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.119590230286
+Iteration : 244
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0433931797743
+Iteration : 245
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.188473820686
+Iteration : 246
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.224229335785
+Iteration : 247
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.202114313841
+Iteration : 248
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.176883339882
+Iteration : 249
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.27060726285
+Iteration : 250
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.356414079666
+Iteration : 251
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0918357595801
+Iteration : 252
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0727200135589
+Iteration : 253
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0725270658731
+Iteration : 254
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.110525280237
+Iteration : 255
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.044331420213
+Iteration : 256
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0953533127904
+Iteration : 257
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.168916240335
+Iteration : 258
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.181712061167
+Iteration : 259
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0628275200725
+Iteration : 260
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.200671568513
+Iteration : 261
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.188366979361
+Iteration : 262
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.194851636887
+Iteration : 263
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.187037289143
+Iteration : 264
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.151811093092
+Iteration : 265
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.223670646548
+Iteration : 266
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.247094407678
+Iteration : 267
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.117959581316
+Iteration : 268
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.114915631711
+Iteration : 269
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.194044262171
+Iteration : 270
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0958834439516
+Iteration : 271
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.135749861598
+Iteration : 272
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0606842972338
+Iteration : 273
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.188086420298
+Iteration : 274
+The accuracy for the model is : 0.890625 
+The loss for thee model is : 0.266468197107
+Iteration : 275
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0906449481845
+Iteration : 276
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.181808874011
+Iteration : 277
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.192925155163
+Iteration : 278
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.18111589551
+Iteration : 279
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.122313298285
+Iteration : 280
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.10348328203
+Iteration : 281
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.13678522408
+Iteration : 282
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.134455516934
+Iteration : 283
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.11518214643
+Iteration : 284
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0419015549123
+Iteration : 285
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0764897540212
+Iteration : 286
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.191204711795
+Iteration : 287
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.118076965213
+Iteration : 288
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0910341441631
+Iteration : 289
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0753782615066
+Iteration : 290
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.196663960814
+Iteration : 291
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.093975558877
+Iteration : 292
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.128341555595
+Iteration : 293
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.077290803194
+Iteration : 294
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0652796402574
+Iteration : 295
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.042463183403
+Iteration : 296
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.05135672912
+Iteration : 297
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.15888234973
+Iteration : 298
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.23040163517
+Iteration : 299
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.06551463902
+Iteration : 300
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.194032385945
+Iteration : 301
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0778235122561
+Iteration : 302
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.277360707521
+Iteration : 303
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.179393962026
+Iteration : 304
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.168918311596
+Iteration : 305
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.134712547064
+Iteration : 306
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0555552840233
+Iteration : 307
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0237212926149
+Iteration : 308
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0182326026261
+Iteration : 309
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.173117533326
+Iteration : 310
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.134662434459
+Iteration : 311
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0980972200632
+Iteration : 312
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.152411997318
+Iteration : 313
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.173128902912
+Iteration : 314
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0626311451197
+Iteration : 315
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.267517447472
+Iteration : 316
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.116731829941
+Iteration : 317
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.124995365739
+Iteration : 318
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0430935285985
+Iteration : 319
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0910970047116
+Iteration : 320
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0469977483153
+Iteration : 321
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.149596422911
+Iteration : 322
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0942176729441
+Iteration : 323
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.288137108088
+Iteration : 324
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.196336656809
+Iteration : 325
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0904500260949
+Iteration : 326
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.162412852049
+Iteration : 327
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.123711034656
+Iteration : 328
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0769068077207
+Iteration : 329
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.145761623979
+Iteration : 330
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0920025184751
+Iteration : 331
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0606014169753
+Iteration : 332
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0769520401955
+Iteration : 333
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0824803635478
+Iteration : 334
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.102271668613
+Iteration : 335
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0584329143167
+Iteration : 336
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0596544966102
+Iteration : 337
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.214341759682
+Iteration : 338
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0696391835809
+Iteration : 339
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0857946425676
+Iteration : 340
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0214813482016
+Iteration : 341
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0233898665756
+Iteration : 342
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.140947565436
+Iteration : 343
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.148876816034
+Iteration : 344
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0504895113409
+Iteration : 345
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.192929983139
+Iteration : 346
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.194023326039
+Iteration : 347
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.143374890089
+Iteration : 348
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.249575451016
+Iteration : 349
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0185938552022
+Iteration : 350
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.104298338294
+Iteration : 351
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.194528132677
+Iteration : 352
+The accuracy for the model is : 0.875 
+The loss for thee model is : 0.386582136154
+Iteration : 353
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.220102235675
+Iteration : 354
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.101980395615
+Iteration : 355
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.168985664845
+Iteration : 356
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.093912743032
+Iteration : 357
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.105192556977
+Iteration : 358
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0212043374777
+Iteration : 359
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.110851928592
+Iteration : 360
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.16464188695
+Iteration : 361
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0929269641638
+Iteration : 362
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.098842702806
+Iteration : 363
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0398346148431
+Iteration : 364
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0539767555892
+Iteration : 365
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.131272152066
+Iteration : 366
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0765193253756
+Iteration : 367
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0547099038959
+Iteration : 368
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.118472099304
+Iteration : 369
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.0994070693851
+Iteration : 370
+The accuracy for the model is : 0.90625 
+The loss for thee model is : 0.231446266174
+Iteration : 371
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0437098927796
+Iteration : 372
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.164973795414
+Iteration : 373
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.11268915236
+Iteration : 374
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.148721858859
+Iteration : 375
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0855317488313
+Iteration : 376
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0373685993254
+Iteration : 377
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0441103242338
+Iteration : 378
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.111050479114
+Iteration : 379
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.152004361153
+Iteration : 380
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0335152819753
+Iteration : 381
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0845916047692
+Iteration : 382
+The accuracy for the model is : 0.921875 
+The loss for thee model is : 0.226936131716
+Iteration : 383
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.118272811174
+Iteration : 384
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.180703103542
+Iteration : 385
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.131581619382
+Iteration : 386
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0882545113564
+Iteration : 387
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.265683710575
+Iteration : 388
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0668906792998
+Iteration : 389
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.137648507953
+Iteration : 390
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.0701034590602
+Iteration : 391
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0404105857015
+Iteration : 392
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.114073470235
+Iteration : 393
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.107915058732
+Iteration : 394
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.0995308309793
+Iteration : 395
+The accuracy for the model is : 0.9375 
+The loss for thee model is : 0.113550186157
+Iteration : 396
+The accuracy for the model is : 0.984375 
+The loss for thee model is : 0.0264319498092
+Iteration : 397
+The accuracy for the model is : 1.0 
+The loss for thee model is : 0.0239899624139
+Iteration : 398
+The accuracy for the model is : 0.96875 
+The loss for thee model is : 0.123314604163
+Iteration : 399
+The accuracy for the model is : 0.953125 
+The loss for thee model is : 0.239010795951
+INFO: Starting the testing procedure
+RESULT: Overall Test accuracy is : 0.964800
