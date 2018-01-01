@@ -1,0 +1,14 @@
+name: "mnist-test_init"
+op {
+  output: "dbreader_/home/chaitanya/caffe2_notebooks/tutorial_data/mnist/mnist-train-nchw-lmdb"
+  name: ""
+  type: "CreateDB"
+  arg {
+    name: "db_type"
+    s: "lmdb"
+  }
+  arg {
+    name: "db"
+    s: "/home/chaitanya/caffe2_notebooks/tutorial_data/mnist/mnist-train-nchw-lmdb"
+  }
+}
