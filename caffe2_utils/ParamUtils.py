@@ -52,4 +52,22 @@ def AddBookKeepingOperators(model):
 	for param in model.params:
 		model.Summarize(param, [], to_file = 1)
 		model.Summarize(model.param_to_grad[param], [], to_file = 1)
- 
+'''
+This function is used to save the model into init_net.pb and predict_net.pb
+@arg: model - test model
+@arg : prefix - Prefix for the file names.
+@arg : shape - of tensor (C, H, W) tuple is requiredtu.
+'''
+def SaveNet(model, prefix, tensor_shape):
+	with open(prefix + '_predict_net.pb', 'wb') as f:
+		f.write(model.net._net.SerializeToString())
+	init_net = caffe2_pb2.NetDef()
+	for param in model.params:
+		blob = workspace.FetchBlob(param)
+		shape = blob.shape
+		op = core.CreateOperator("GivenTensorFill", [], [param], arg = [utils.MakeArgument("shape", shape), utils.MakeArgument("values", blob)])
+		init_net.op.extend([op])
+	init_net.op.extend([core.CreateOperator("ConstantFill", [], ["data"], shape = tensor_shape)])
+	with open(prefix + '_init_net.pb', 'wb') as f:
+		f.write(init_net.SerializeToString())
+

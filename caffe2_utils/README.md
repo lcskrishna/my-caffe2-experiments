@@ -19,6 +19,7 @@ AddInputLayer(model, batch_size, db, db_type)
 AddAccuracy(model, softmax, label)
 AddTrainingParameters(model, softmax, label)
 AddBookKeepingOperators(model)
+SaveNet(test_model, prefix, tensor_shape_chw)
 ```
 
 ## Example:
