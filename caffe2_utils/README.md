@@ -35,4 +35,4 @@ u.write_db(<db_format>, <db_name>, <numpy_features_nchw>, <numpy_labels>)
 
 ```
 
-TODO: Need to add various features and convert this module into a pip package.
+TODO: Need to add various features into this utility package.
